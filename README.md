@@ -3,4 +3,4 @@ iOs
 
 # About 
 
-Stuff about simon here... 
+Japanese are Asian
