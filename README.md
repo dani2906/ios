@@ -1,6 +1,6 @@
 iOs 
 ---
 
-# About Simon
+# About 
 
 Stuff about simon here... 
